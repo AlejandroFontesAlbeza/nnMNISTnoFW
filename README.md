@@ -1,4 +1,8 @@
-# nnMNISTnoFW
+# <center> nnMNISTnoFW
+
+<p align = "center">
+    <img src = "resources/MNIST.png" alt = "Gradient Descent w and b ideals" width = "350"/>
+</p>
 
 Neural network implementation from scratch
 
