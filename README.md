@@ -40,7 +40,7 @@ The model is a **simple fully connected neural network** with:
 
 ###  Training 
 
-- The Network was trained during 1000 epochs (**duration: 8min**)
+- The Network was trained during 1000 epochs (**duration: 5min**)
 - Training is performed from scratch
 - After training the weights and biases are saved with `numpy` as .npz
 - Final accuracy: **84%**
